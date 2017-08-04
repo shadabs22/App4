@@ -13,7 +13,7 @@ namespace App4
 
             // Set our view from the "main" layout resource
             // SetContentView (Resource.Layout.Main);
-        }
+        }   
     }
 }
 
